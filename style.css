@@ -1,0 +1,21 @@
+.button-container {
+    color: black;
+    background-color: lightblue;
+    display: flex;
+    justify-content: center;
+    
+}
+
+.button-grid {
+    width: 900px;
+    height: 250px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#title {
+    color: red;
+    text-align: center !important;
+}
+
